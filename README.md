@@ -5,7 +5,7 @@ I am a writer and researcher. My goal is to create a bridge between each other t
 My Interests:
 - Technology (PC Hardware/Software Deployments and Functional Analysis/Repair/Resolution)
 - Science Fiction and Fantasy
-- Acient Civilzations
+- Ancient Civilzations
 - Decentralization
 - Distributed networks and content platforms
 - Psychology and spirituality (hermetics)
